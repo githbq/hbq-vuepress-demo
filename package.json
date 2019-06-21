@@ -1,0 +1,11 @@
+{
+    "name": "vuepress-demo",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "devDependencies": {
+        "vuepress": "^1.0.1"
+    },
+    "repository": { "url": "https://github.com/githbq/hbq-vuepress-demo.git" }
+}
